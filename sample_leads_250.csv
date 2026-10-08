@@ -1,0 +1,251 @@
+Lead_ID,Company_Name,Industry,Company_Size,Country,Annual_Revenue_USD_M,Job_Title,Decision_Maker_Flag,Lead_Source,Product_Interest,Website_Visits_30D,Email_Opens_30D,Email_Clicks_30D,Content_Downloads_30D,Demo_Requests_30D,LinkedIn_Engagement_30D,Previous_Interactions,Days_Since_Last_Activity,Budget_Fit,Purchase_Timeline,Competitor_Usage
+L001,Prospect 001,Logistics,Enterprise,Germany,3834,CTO,0,LinkedIn,AI Automation,6,3,1,6,2,6,13,29,High,0-30 days,None
+L002,Prospect 002,Healthcare,SME,UK,67,CFO,0,Webinar,AI Automation,5,8,7,3,0,7,3,3,High,0-30 days,Competitor A
+L003,Prospect 003,SaaS,Enterprise,Germany,517,CTO,0,LinkedIn,Analytics,12,8,7,4,3,8,15,9,Low,3-6 months,None
+L004,Prospect 004,Logistics,Enterprise,Germany,4660,Director,1,Email Campaign,CRM,2,5,1,1,1,6,3,36,Low,0-30 days,None
+L005,Prospect 005,FinTech,Mid-Market,USA,417,Head of Operations,1,Email Campaign,Cybersecurity,7,8,6,2,2,7,10,4,Low,6+ months,None
+L006,Prospect 006,Retail,SME,India,18,VP Sales,0,Partner,CRM,9,5,7,8,2,9,0,42,High,3-6 months,Competitor A
+L007,Prospect 007,SaaS,SME,Singapore,46,Founder,1,Website,Data Platform,22,10,3,4,3,4,1,5,High,6+ months,None
+L008,Prospect 008,SaaS,Mid-Market,Singapore,357,CTO,1,LinkedIn,Cybersecurity,17,0,1,1,1,8,1,23,High,31-90 days,Competitor A
+L009,Prospect 009,Retail,SME,UAE,23,Founder,1,Partner,Analytics,19,4,3,2,1,6,0,11,High,3-6 months,Competitor A
+L010,Prospect 010,EdTech,Enterprise,Germany,2134,Director,0,Webinar,Data Platform,14,11,4,3,1,0,6,25,Medium,3-6 months,Competitor B
+L011,Prospect 011,Retail,Mid-Market,India,208,Procurement Head,1,Webinar,Analytics,18,8,0,1,3,5,10,27,High,0-30 days,Competitor A
+L012,Prospect 012,Healthcare,SME,UAE,65,CFO,1,Partner,Cloud,19,10,10,1,2,8,9,42,Medium,3-6 months,Competitor B
+L013,Prospect 013,Healthcare,SME,Germany,48,VP Sales,0,Referral,CRM,0,9,4,3,3,9,10,29,Medium,6+ months,Competitor C
+L014,Prospect 014,Logistics,Mid-Market,UK,419,CFO,1,Website,AI Automation,7,6,2,0,0,3,15,39,Low,6+ months,Competitor A
+L015,Prospect 015,Telecom,Startup,UAE,2,Procurement Head,1,Webinar,Cloud,25,14,0,8,1,1,14,8,Medium,3-6 months,Competitor C
+L016,Prospect 016,Healthcare,Mid-Market,UAE,467,Head of Operations,1,Webinar,Data Platform,15,7,4,7,0,4,7,17,Medium,3-6 months,None
+L017,Prospect 017,Telecom,SME,India,18,CTO,1,Referral,Cloud,10,14,6,0,1,6,12,37,High,0-30 days,Competitor C
+L018,Prospect 018,Logistics,Enterprise,USA,2297,Director,1,Partner,Analytics,8,13,7,0,3,5,12,10,Medium,31-90 days,None
+L019,Prospect 019,FinTech,Startup,UK,7,VP Sales,1,Partner,CRM,1,8,6,5,1,7,10,21,Medium,3-6 months,Competitor B
+L020,Prospect 020,Telecom,Startup,Germany,6,CTO,0,Referral,AI Automation,24,1,0,3,1,0,4,15,Low,6+ months,Competitor A
+L021,Prospect 021,SaaS,Startup,Singapore,3,Director,1,Webinar,Data Platform,9,12,6,3,0,9,7,6,High,3-6 months,None
+L022,Prospect 022,Telecom,Mid-Market,UK,406,CFO,0,Partner,CRM,0,13,7,1,3,5,14,45,Low,6+ months,Competitor B
+L023,Prospect 023,EdTech,Mid-Market,Singapore,500,CTO,1,Referral,CRM,8,14,3,7,3,5,0,31,Medium,31-90 days,Competitor A
+L024,Prospect 024,Logistics,Mid-Market,Germany,339,Head of Operations,1,Referral,Data Platform,2,7,6,7,1,7,15,28,Low,0-30 days,Competitor A
+L025,Prospect 025,Manufacturing,Mid-Market,UAE,292,Procurement Head,1,Webinar,Cybersecurity,11,14,4,4,2,3,3,12,Medium,0-30 days,Competitor A
+L026,Prospect 026,FinTech,Mid-Market,India,226,Director,0,Referral,Cloud,11,5,4,0,1,4,1,3,High,3-6 months,Competitor C
+L027,Prospect 027,Retail,Enterprise,India,920,Head of Operations,0,LinkedIn,CRM,8,15,1,1,3,7,2,36,High,0-30 days,Competitor A
+L028,Prospect 028,Retail,Enterprise,Germany,4780,VP Sales,0,Website,AI Automation,12,14,7,4,3,4,1,39,High,0-30 days,Competitor A
+L029,Prospect 029,Manufacturing,SME,Singapore,19,Founder,1,Partner,CRM,13,14,9,7,2,0,7,18,High,3-6 months,None
+L030,Prospect 030,Telecom,SME,Germany,24,CTO,1,Partner,Cloud,20,4,4,2,0,0,5,19,High,3-6 months,None
+L031,Prospect 031,Healthcare,Mid-Market,UK,299,Director,1,Partner,Cloud,19,1,6,5,2,0,2,14,High,0-30 days,None
+L032,Prospect 032,Logistics,Mid-Market,USA,400,VP Sales,1,Webinar,Analytics,2,15,5,6,2,5,3,10,Medium,6+ months,Competitor B
+L033,Prospect 033,Telecom,Mid-Market,India,134,Head of Operations,1,Referral,CRM,16,0,10,8,3,6,1,12,High,3-6 months,Competitor C
+L034,Prospect 034,Telecom,SME,India,66,Procurement Head,0,Website,Cloud,3,0,10,3,1,4,0,35,Medium,0-30 days,None
+L035,Prospect 035,Logistics,Mid-Market,Singapore,287,Founder,0,Email Campaign,Cybersecurity,15,7,7,8,1,6,6,38,High,31-90 days,Competitor B
+L036,Prospect 036,Manufacturing,Startup,UK,5,VP Sales,0,Referral,Data Platform,4,14,8,7,2,5,12,29,Medium,31-90 days,Competitor C
+L037,Prospect 037,Logistics,Enterprise,Germany,1746,Head of Operations,0,LinkedIn,Cloud,15,1,2,8,2,1,14,6,High,6+ months,Competitor A
+L038,Prospect 038,Logistics,Mid-Market,India,407,Founder,0,Partner,Data Platform,10,12,5,7,0,9,2,15,High,3-6 months,None
+L039,Prospect 039,Healthcare,Startup,UAE,8,Head of Operations,1,LinkedIn,CRM,0,1,5,0,2,5,11,27,Low,31-90 days,Competitor C
+L040,Prospect 040,EdTech,Enterprise,USA,1672,CTO,0,Partner,Cloud,7,14,10,4,3,4,0,29,Medium,31-90 days,Competitor C
+L041,Prospect 041,SaaS,Mid-Market,USA,176,Founder,1,Partner,Data Platform,15,3,3,6,2,9,9,44,Medium,0-30 days,Competitor B
+L042,Prospect 042,SaaS,Startup,USA,10,CTO,1,Partner,AI Automation,19,11,3,3,2,10,4,40,Low,0-30 days,Competitor C
+L043,Prospect 043,FinTech,Startup,UK,5,VP Sales,1,Website,AI Automation,5,6,2,8,2,8,8,10,Medium,6+ months,Competitor B
+L044,Prospect 044,Telecom,Enterprise,India,3732,Director,0,Email Campaign,Cybersecurity,0,8,8,1,3,5,8,37,Medium,3-6 months,Competitor A
+L045,Prospect 045,Logistics,SME,UK,69,CTO,0,Partner,Data Platform,20,13,1,2,0,0,9,31,Low,0-30 days,Competitor A
+L046,Prospect 046,EdTech,Enterprise,India,1311,CFO,0,Referral,AI Automation,15,13,4,0,2,3,14,28,Low,3-6 months,Competitor B
+L047,Prospect 047,Manufacturing,Startup,Singapore,8,Founder,1,Website,CRM,20,0,0,5,1,2,6,4,High,31-90 days,Competitor A
+L048,Prospect 048,Retail,Startup,India,5,Head of Operations,0,Partner,Cloud,8,5,1,0,1,0,11,15,High,3-6 months,Competitor A
+L049,Prospect 049,SaaS,Startup,UK,2,Founder,1,Webinar,Cloud,16,3,7,8,1,9,1,42,High,3-6 months,None
+L050,Prospect 050,FinTech,Startup,Germany,8,VP Sales,1,Partner,Data Platform,10,4,1,2,2,9,10,24,High,3-6 months,Competitor C
+L051,Prospect 051,Telecom,SME,India,67,VP Sales,1,LinkedIn,Analytics,10,14,6,6,0,5,13,20,High,3-6 months,Competitor A
+L052,Prospect 052,Retail,Enterprise,Singapore,1565,VP Sales,0,Email Campaign,CRM,17,1,9,8,2,10,3,26,Medium,6+ months,Competitor B
+L053,Prospect 053,Retail,SME,Germany,71,Founder,0,Referral,Cybersecurity,11,11,1,4,1,6,0,38,High,3-6 months,Competitor A
+L054,Prospect 054,EdTech,Mid-Market,Singapore,148,Procurement Head,1,Referral,CRM,2,4,10,0,0,8,6,24,Medium,6+ months,Competitor A
+L055,Prospect 055,EdTech,Startup,UK,1,VP Sales,1,Referral,Data Platform,21,2,4,7,3,7,14,26,Medium,31-90 days,None
+L056,Prospect 056,Telecom,Enterprise,Germany,2306,CFO,0,Website,AI Automation,12,1,0,3,2,3,4,16,Medium,3-6 months,None
+L057,Prospect 057,Logistics,Enterprise,Singapore,3401,VP Sales,1,Webinar,Analytics,2,12,0,6,0,7,2,20,High,6+ months,Competitor C
+L058,Prospect 058,Manufacturing,Mid-Market,Singapore,500,Founder,1,Website,Analytics,2,13,1,3,3,9,12,33,Low,6+ months,Competitor B
+L059,Prospect 059,Telecom,Startup,UK,9,Founder,0,Email Campaign,CRM,11,4,3,1,1,4,6,11,High,31-90 days,Competitor A
+L060,Prospect 060,Retail,Enterprise,UK,3089,CFO,1,LinkedIn,Analytics,4,14,1,7,3,10,9,17,High,0-30 days,None
+L061,Prospect 061,SaaS,Mid-Market,UK,405,VP Sales,1,Referral,Data Platform,19,12,7,8,0,7,6,20,High,6+ months,Competitor A
+L062,Prospect 062,EdTech,Startup,India,9,CTO,1,LinkedIn,CRM,22,14,7,8,1,5,11,18,Medium,6+ months,None
+L063,Prospect 063,EdTech,Enterprise,UAE,1731,Procurement Head,1,Partner,Data Platform,10,2,9,2,2,4,12,8,High,0-30 days,Competitor C
+L064,Prospect 064,FinTech,Startup,USA,7,Founder,0,Email Campaign,Data Platform,11,9,2,3,2,7,6,14,Low,31-90 days,Competitor B
+L065,Prospect 065,Telecom,Startup,UAE,6,Director,1,Website,Cybersecurity,4,5,2,2,3,0,13,23,High,31-90 days,Competitor B
+L066,Prospect 066,EdTech,Enterprise,USA,4109,VP Sales,0,Partner,CRM,14,9,6,8,3,2,6,38,Low,3-6 months,Competitor C
+L067,Prospect 067,Logistics,Startup,USA,5,CTO,1,Website,Cloud,8,14,8,2,3,1,7,28,Medium,0-30 days,None
+L068,Prospect 068,FinTech,Startup,India,6,CTO,1,Website,AI Automation,3,10,2,2,0,4,15,44,Low,6+ months,None
+L069,Prospect 069,Healthcare,Enterprise,Singapore,2967,CFO,1,LinkedIn,CRM,3,1,3,6,3,1,3,31,High,0-30 days,Competitor A
+L070,Prospect 070,SaaS,Mid-Market,Singapore,170,Founder,1,LinkedIn,Cybersecurity,16,11,1,8,0,6,15,2,High,6+ months,Competitor B
+L071,Prospect 071,Manufacturing,SME,India,52,Founder,0,Website,Analytics,11,10,10,2,3,7,5,8,Low,6+ months,Competitor B
+L072,Prospect 072,Logistics,Mid-Market,UK,278,Procurement Head,0,Webinar,Cloud,15,8,0,3,2,5,1,41,Medium,3-6 months,Competitor B
+L073,Prospect 073,EdTech,Mid-Market,Germany,429,CTO,0,Referral,Cloud,11,8,1,6,0,6,5,34,Medium,3-6 months,None
+L074,Prospect 074,SaaS,Enterprise,UAE,4162,Founder,1,Email Campaign,Data Platform,1,11,9,6,2,10,1,4,High,6+ months,Competitor A
+L075,Prospect 075,FinTech,Enterprise,USA,2433,Head of Operations,1,Email Campaign,Cybersecurity,24,11,5,6,0,9,4,43,Medium,3-6 months,Competitor C
+L076,Prospect 076,Telecom,Enterprise,UAE,1429,VP Sales,0,Website,Analytics,0,5,7,8,3,8,3,16,Medium,6+ months,Competitor B
+L077,Prospect 077,FinTech,Enterprise,UAE,3118,Founder,1,Website,AI Automation,21,11,1,8,2,4,5,45,High,31-90 days,Competitor A
+L078,Prospect 078,Logistics,Enterprise,USA,3522,VP Sales,1,Website,Cybersecurity,14,4,9,1,0,4,12,45,High,6+ months,Competitor C
+L079,Prospect 079,Healthcare,Startup,Singapore,8,Procurement Head,1,Website,Cybersecurity,11,4,8,2,1,6,1,7,High,31-90 days,Competitor A
+L080,Prospect 080,SaaS,Mid-Market,India,175,VP Sales,0,LinkedIn,Data Platform,4,9,9,8,0,8,5,37,High,31-90 days,Competitor B
+L081,Prospect 081,Telecom,Mid-Market,UK,391,CFO,0,Webinar,AI Automation,15,9,10,4,3,3,12,19,Medium,0-30 days,Competitor A
+L082,Prospect 082,Telecom,Mid-Market,UAE,235,Head of Operations,0,LinkedIn,Analytics,23,11,6,2,2,8,3,20,Low,6+ months,Competitor B
+L083,Prospect 083,Logistics,Mid-Market,USA,202,CFO,0,Website,AI Automation,10,10,3,2,3,8,14,31,Medium,6+ months,None
+L084,Prospect 084,SaaS,Mid-Market,UK,219,VP Sales,1,Email Campaign,CRM,19,15,4,8,0,1,13,8,Medium,3-6 months,Competitor B
+L085,Prospect 085,Healthcare,SME,UAE,46,Director,1,Email Campaign,Cloud,16,14,8,4,0,2,3,25,Medium,3-6 months,Competitor B
+L086,Prospect 086,Retail,Startup,USA,1,CTO,0,Email Campaign,CRM,25,15,8,7,1,9,4,20,High,3-6 months,Competitor C
+L087,Prospect 087,Retail,Enterprise,Germany,636,Founder,1,Email Campaign,CRM,11,10,10,1,3,9,9,44,High,0-30 days,Competitor C
+L088,Prospect 088,Healthcare,SME,UK,71,Procurement Head,1,Website,Cloud,20,12,2,3,0,9,3,12,Low,6+ months,Competitor C
+L089,Prospect 089,Retail,Enterprise,USA,2198,CFO,1,Website,AI Automation,17,10,10,7,3,5,5,29,High,3-6 months,Competitor B
+L090,Prospect 090,Logistics,Mid-Market,UK,190,Founder,1,Referral,AI Automation,24,9,3,7,2,7,11,35,High,3-6 months,None
+L091,Prospect 091,Manufacturing,Mid-Market,UAE,440,VP Sales,0,Partner,CRM,11,14,10,4,3,3,6,34,Medium,3-6 months,None
+L092,Prospect 092,Retail,SME,Singapore,16,CTO,1,Partner,Analytics,10,15,1,2,0,8,5,26,High,6+ months,Competitor A
+L093,Prospect 093,EdTech,Startup,Singapore,10,CFO,1,Partner,CRM,5,13,2,0,3,7,5,18,Low,0-30 days,None
+L094,Prospect 094,Manufacturing,Enterprise,UAE,2735,Director,1,Partner,Cloud,6,3,5,2,3,10,8,45,Low,0-30 days,Competitor B
+L095,Prospect 095,Retail,Enterprise,Singapore,3783,CTO,0,Email Campaign,Data Platform,21,3,2,2,3,5,7,0,Medium,6+ months,Competitor C
+L096,Prospect 096,Manufacturing,Startup,UAE,5,CFO,1,Website,Cloud,1,3,7,4,1,6,9,44,Low,3-6 months,Competitor A
+L097,Prospect 097,Healthcare,Mid-Market,UAE,462,CTO,0,Email Campaign,Cloud,25,6,3,1,3,8,11,4,High,0-30 days,Competitor A
+L098,Prospect 098,Retail,Startup,India,4,Procurement Head,0,Website,CRM,14,1,7,2,3,7,1,35,Medium,3-6 months,Competitor C
+L099,Prospect 099,Telecom,Startup,UK,1,CFO,1,LinkedIn,Data Platform,17,1,1,7,0,4,13,11,Low,6+ months,Competitor C
+L100,Prospect 100,Manufacturing,SME,UAE,25,CFO,1,Referral,AI Automation,12,4,3,0,0,4,14,43,High,6+ months,Competitor C
+L101,Prospect 101,Logistics,Mid-Market,UK,91,Head of Operations,0,Email Campaign,AI Automation,19,0,3,3,0,1,1,28,High,0-30 days,None
+L102,Prospect 102,Retail,Startup,India,3,Director,1,Email Campaign,Data Platform,23,10,9,5,1,4,4,42,High,31-90 days,Competitor B
+L103,Prospect 103,Manufacturing,SME,UAE,73,CTO,1,Partner,AI Automation,20,12,8,5,3,6,4,19,Medium,31-90 days,Competitor C
+L104,Prospect 104,SaaS,Enterprise,Singapore,4841,CFO,1,Partner,CRM,4,12,3,4,1,5,2,28,Medium,0-30 days,Competitor A
+L105,Prospect 105,Logistics,Startup,UAE,2,Director,0,Referral,Cybersecurity,15,6,5,4,0,3,6,7,High,6+ months,Competitor A
+L106,Prospect 106,Healthcare,Enterprise,India,2642,CTO,0,Email Campaign,CRM,11,15,7,1,3,5,6,23,Medium,6+ months,Competitor A
+L107,Prospect 107,EdTech,Enterprise,UAE,3202,Head of Operations,1,Partner,CRM,7,12,9,3,3,8,10,16,Medium,6+ months,Competitor A
+L108,Prospect 108,Telecom,Enterprise,Singapore,777,VP Sales,0,Email Campaign,Data Platform,2,1,0,6,1,10,7,4,High,31-90 days,Competitor A
+L109,Prospect 109,FinTech,Enterprise,USA,4859,Head of Operations,0,Website,AI Automation,17,13,0,0,2,8,9,1,High,6+ months,None
+L110,Prospect 110,Logistics,Mid-Market,UK,482,Director,0,Webinar,Analytics,2,11,6,7,1,3,9,43,Low,0-30 days,Competitor C
+L111,Prospect 111,FinTech,Startup,Germany,3,CTO,1,Email Campaign,CRM,20,10,9,1,0,3,6,44,High,6+ months,None
+L112,Prospect 112,FinTech,Startup,USA,3,Procurement Head,1,Referral,Analytics,18,4,6,1,2,2,7,36,Medium,3-6 months,Competitor A
+L113,Prospect 113,Logistics,Startup,India,7,Founder,1,Email Campaign,Cybersecurity,19,12,5,0,2,7,15,14,Medium,6+ months,Competitor A
+L114,Prospect 114,FinTech,SME,UAE,20,VP Sales,1,Website,Cloud,12,4,6,5,2,1,2,0,Medium,6+ months,Competitor B
+L115,Prospect 115,FinTech,Enterprise,Germany,1346,Director,1,Website,CRM,0,2,5,8,0,9,10,24,Low,3-6 months,Competitor C
+L116,Prospect 116,EdTech,SME,Singapore,31,Head of Operations,1,Partner,Data Platform,9,8,7,2,0,2,13,17,Medium,3-6 months,None
+L117,Prospect 117,Retail,Enterprise,Singapore,1376,Director,1,Partner,AI Automation,4,9,0,6,2,9,12,21,Medium,3-6 months,Competitor A
+L118,Prospect 118,Healthcare,Enterprise,Germany,3114,Founder,1,Email Campaign,Analytics,9,15,9,3,2,6,8,25,Medium,0-30 days,Competitor A
+L119,Prospect 119,FinTech,Enterprise,UK,2886,Director,1,Webinar,CRM,22,2,6,7,1,10,9,15,Medium,31-90 days,Competitor C
+L120,Prospect 120,Logistics,Enterprise,Singapore,3926,Founder,0,Webinar,Analytics,17,1,5,8,0,1,7,42,High,3-6 months,None
+L121,Prospect 121,Logistics,Startup,India,2,VP Sales,0,Partner,AI Automation,23,7,7,5,3,7,4,22,Low,6+ months,Competitor B
+L122,Prospect 122,SaaS,Mid-Market,Singapore,308,Procurement Head,0,LinkedIn,Data Platform,16,15,5,7,0,7,14,20,Low,3-6 months,None
+L123,Prospect 123,Manufacturing,SME,UK,32,Director,1,Webinar,Cloud,10,13,7,3,3,10,5,11,High,6+ months,None
+L124,Prospect 124,Logistics,Startup,USA,4,CFO,1,Email Campaign,Analytics,18,3,8,2,2,5,6,29,Low,3-6 months,Competitor B
+L125,Prospect 125,Healthcare,Mid-Market,USA,391,CFO,0,Webinar,CRM,21,9,9,1,1,5,3,15,Medium,0-30 days,Competitor B
+L126,Prospect 126,EdTech,SME,India,59,CFO,1,Website,AI Automation,15,5,8,2,3,4,4,11,Medium,6+ months,None
+L127,Prospect 127,Retail,Enterprise,UAE,4554,Director,1,Referral,AI Automation,13,15,6,7,3,2,2,36,Low,31-90 days,None
+L128,Prospect 128,Manufacturing,Enterprise,Singapore,4684,Founder,1,LinkedIn,Cloud,3,3,4,8,2,8,1,28,High,31-90 days,None
+L129,Prospect 129,Retail,Mid-Market,USA,299,Director,1,Website,Cybersecurity,24,7,3,5,3,2,4,13,Low,0-30 days,Competitor B
+L130,Prospect 130,Telecom,Mid-Market,UAE,338,Director,0,Partner,Cybersecurity,4,13,0,4,1,2,7,9,High,3-6 months,Competitor C
+L131,Prospect 131,Logistics,Enterprise,UAE,1262,CFO,1,Website,Cloud,12,8,5,7,3,5,0,5,High,6+ months,None
+L132,Prospect 132,Healthcare,Mid-Market,UK,247,CFO,0,LinkedIn,Cloud,18,4,9,7,2,10,1,2,Low,6+ months,None
+L133,Prospect 133,FinTech,SME,Germany,48,VP Sales,0,LinkedIn,AI Automation,2,11,4,1,2,10,5,3,Medium,3-6 months,Competitor C
+L134,Prospect 134,Logistics,Enterprise,India,2352,Procurement Head,0,LinkedIn,Analytics,16,14,0,0,2,1,13,44,Low,6+ months,Competitor A
+L135,Prospect 135,Manufacturing,Mid-Market,Germany,145,Procurement Head,1,Website,Cloud,24,4,10,2,0,8,0,39,High,31-90 days,Competitor B
+L136,Prospect 136,Retail,Enterprise,Germany,1646,VP Sales,0,Partner,Cybersecurity,24,3,9,6,2,6,10,8,Low,3-6 months,Competitor A
+L137,Prospect 137,EdTech,SME,Singapore,75,Head of Operations,1,Webinar,CRM,9,1,3,7,3,1,7,31,High,0-30 days,None
+L138,Prospect 138,Logistics,Enterprise,UK,4358,Procurement Head,1,Webinar,Analytics,24,2,0,1,0,4,6,2,Low,6+ months,Competitor B
+L139,Prospect 139,Manufacturing,SME,India,20,CFO,0,LinkedIn,Cloud,16,6,2,8,2,6,2,19,High,6+ months,None
+L140,Prospect 140,SaaS,Startup,Singapore,5,Founder,1,Webinar,Cybersecurity,22,4,0,2,3,5,8,10,Medium,31-90 days,None
+L141,Prospect 141,SaaS,Startup,India,5,Head of Operations,0,LinkedIn,Cloud,16,11,0,7,1,5,5,16,Low,0-30 days,None
+L142,Prospect 142,Healthcare,Mid-Market,UAE,166,Founder,0,Email Campaign,Analytics,17,13,3,5,1,6,10,17,Low,3-6 months,None
+L143,Prospect 143,Telecom,Enterprise,Singapore,3045,Director,1,Webinar,AI Automation,10,2,8,7,0,5,6,18,High,3-6 months,Competitor A
+L144,Prospect 144,Logistics,SME,UK,10,VP Sales,1,Website,Data Platform,7,11,10,0,2,0,12,19,Low,31-90 days,Competitor A
+L145,Prospect 145,Logistics,Mid-Market,Germany,193,Head of Operations,1,Website,Cybersecurity,13,11,7,1,0,8,4,40,Medium,0-30 days,None
+L146,Prospect 146,Telecom,Mid-Market,UK,433,CTO,0,Webinar,Analytics,10,14,4,3,0,3,4,37,Low,31-90 days,Competitor A
+L147,Prospect 147,EdTech,Mid-Market,UK,232,Director,0,LinkedIn,Data Platform,8,3,1,2,2,9,1,13,Medium,31-90 days,Competitor A
+L148,Prospect 148,Logistics,Mid-Market,Singapore,90,Procurement Head,0,Partner,Data Platform,14,7,1,7,0,2,3,0,Low,31-90 days,Competitor A
+L149,Prospect 149,Logistics,Startup,Germany,10,CFO,0,Webinar,Analytics,0,2,3,7,1,1,10,7,Low,6+ months,Competitor A
+L150,Prospect 150,SaaS,Enterprise,India,2258,CTO,1,Webinar,AI Automation,5,8,4,7,1,0,7,41,Medium,6+ months,Competitor C
+L151,Prospect 151,Healthcare,Enterprise,India,4953,CTO,1,Email Campaign,AI Automation,25,0,6,5,3,8,15,22,High,3-6 months,Competitor B
+L152,Prospect 152,Manufacturing,Startup,USA,5,Founder,1,Webinar,Cybersecurity,16,11,9,3,1,1,7,42,Low,3-6 months,None
+L153,Prospect 153,Healthcare,SME,UK,40,VP Sales,1,LinkedIn,Analytics,25,11,9,0,2,9,4,36,Low,6+ months,Competitor B
+L154,Prospect 154,FinTech,SME,USA,38,Founder,0,Referral,Analytics,15,0,5,3,1,5,5,20,Low,0-30 days,Competitor A
+L155,Prospect 155,Logistics,Mid-Market,Singapore,247,Procurement Head,0,Partner,Cybersecurity,10,4,2,6,3,10,10,11,High,3-6 months,Competitor A
+L156,Prospect 156,EdTech,SME,Singapore,10,Head of Operations,0,Partner,Analytics,24,1,2,5,1,10,3,31,Low,3-6 months,Competitor A
+L157,Prospect 157,Telecom,Mid-Market,UK,210,CTO,0,Email Campaign,Cloud,7,2,5,4,0,0,1,24,Medium,6+ months,Competitor C
+L158,Prospect 158,FinTech,Startup,USA,8,VP Sales,1,Referral,CRM,2,1,4,0,2,4,3,4,Medium,31-90 days,Competitor A
+L159,Prospect 159,Manufacturing,Enterprise,India,1851,VP Sales,1,Webinar,CRM,19,13,2,0,0,5,6,12,Medium,3-6 months,Competitor B
+L160,Prospect 160,FinTech,Enterprise,Singapore,531,Founder,0,Webinar,Cloud,13,2,4,7,1,1,0,13,Low,3-6 months,Competitor C
+L161,Prospect 161,Manufacturing,Enterprise,Singapore,4957,Director,1,LinkedIn,AI Automation,12,5,5,6,2,2,14,2,Medium,6+ months,Competitor B
+L162,Prospect 162,Telecom,Startup,Singapore,2,VP Sales,1,Webinar,Data Platform,13,7,8,0,3,8,13,34,High,6+ months,Competitor A
+L163,Prospect 163,Retail,Startup,Singapore,9,Procurement Head,0,LinkedIn,Analytics,5,5,3,3,1,0,13,5,High,6+ months,Competitor A
+L164,Prospect 164,Retail,Enterprise,USA,3171,CTO,0,Webinar,Cybersecurity,8,14,0,8,3,1,13,9,Low,0-30 days,None
+L165,Prospect 165,EdTech,Enterprise,India,1910,CTO,1,Referral,Cybersecurity,8,12,2,6,0,6,10,44,Low,0-30 days,Competitor B
+L166,Prospect 166,EdTech,Mid-Market,India,191,Director,1,Website,Analytics,9,14,5,4,3,9,2,12,Medium,31-90 days,Competitor C
+L167,Prospect 167,Retail,Mid-Market,Singapore,144,Founder,1,Webinar,CRM,18,0,2,3,1,0,7,2,Medium,0-30 days,Competitor A
+L168,Prospect 168,Logistics,Enterprise,India,3551,Head of Operations,1,Email Campaign,AI Automation,15,14,2,7,2,5,5,16,High,0-30 days,None
+L169,Prospect 169,Retail,SME,UK,36,CFO,1,Referral,Cloud,16,0,10,0,3,2,5,38,Low,31-90 days,Competitor B
+L170,Prospect 170,Telecom,Mid-Market,India,229,CTO,1,Referral,Data Platform,19,12,9,1,0,8,11,35,High,3-6 months,None
+L171,Prospect 171,Retail,Mid-Market,Singapore,410,CFO,0,Webinar,Cloud,6,4,8,3,0,9,12,42,Medium,31-90 days,Competitor C
+L172,Prospect 172,Healthcare,Startup,Germany,10,CTO,0,Partner,Analytics,21,15,10,5,2,2,5,18,Low,6+ months,Competitor B
+L173,Prospect 173,FinTech,SME,Germany,38,CFO,1,Email Campaign,Cybersecurity,13,10,5,4,2,7,3,30,Low,0-30 days,Competitor A
+L174,Prospect 174,SaaS,Enterprise,India,2140,CFO,0,Referral,AI Automation,10,13,9,7,1,5,5,5,Medium,3-6 months,Competitor B
+L175,Prospect 175,EdTech,SME,India,30,CTO,1,Email Campaign,AI Automation,4,13,10,6,3,6,15,24,Low,0-30 days,Competitor A
+L176,Prospect 176,Logistics,Startup,Germany,1,Head of Operations,1,Referral,Cloud,9,4,1,6,2,2,2,2,Medium,3-6 months,Competitor B
+L177,Prospect 177,SaaS,Mid-Market,USA,490,VP Sales,1,Partner,Analytics,0,7,3,2,1,0,5,7,Medium,0-30 days,Competitor B
+L178,Prospect 178,FinTech,Startup,Germany,1,Director,1,Referral,CRM,12,3,8,4,3,2,6,44,High,0-30 days,Competitor C
+L179,Prospect 179,Retail,SME,UAE,23,VP Sales,1,Email Campaign,Cloud,9,3,1,7,1,9,6,16,High,31-90 days,Competitor C
+L180,Prospect 180,Retail,SME,UK,52,VP Sales,1,LinkedIn,AI Automation,0,2,1,7,1,1,2,6,Medium,31-90 days,Competitor B
+L181,Prospect 181,FinTech,Startup,Singapore,5,Founder,1,Referral,AI Automation,13,3,1,0,0,2,5,21,Medium,6+ months,Competitor B
+L182,Prospect 182,Telecom,Startup,UAE,7,Director,1,Webinar,Cybersecurity,12,15,6,2,0,2,1,10,Low,6+ months,Competitor C
+L183,Prospect 183,Logistics,Startup,Germany,3,Procurement Head,1,Website,Cloud,13,14,0,1,2,10,10,0,High,31-90 days,None
+L184,Prospect 184,SaaS,Mid-Market,USA,498,Head of Operations,1,Email Campaign,Data Platform,0,5,8,7,3,2,2,31,Medium,31-90 days,Competitor B
+L185,Prospect 185,Logistics,Enterprise,India,4260,Director,0,Email Campaign,Analytics,14,14,1,7,3,5,3,31,High,0-30 days,Competitor C
+L186,Prospect 186,FinTech,Startup,India,10,Founder,1,Partner,AI Automation,20,14,5,5,0,3,14,21,High,6+ months,Competitor C
+L187,Prospect 187,Manufacturing,Startup,UAE,6,VP Sales,0,Webinar,AI Automation,17,11,1,0,1,7,4,45,High,6+ months,Competitor B
+L188,Prospect 188,Telecom,Enterprise,USA,3895,Founder,1,Website,Data Platform,1,3,7,7,1,7,0,33,High,0-30 days,Competitor C
+L189,Prospect 189,Retail,SME,Germany,23,Director,0,Referral,Data Platform,16,12,6,3,2,6,10,18,Medium,31-90 days,Competitor C
+L190,Prospect 190,Logistics,SME,Germany,36,Procurement Head,1,Email Campaign,Cybersecurity,21,11,10,2,1,8,10,45,Low,3-6 months,Competitor C
+L191,Prospect 191,Retail,Enterprise,UAE,3620,Founder,0,Email Campaign,Analytics,4,1,10,0,1,4,5,18,High,3-6 months,None
+L192,Prospect 192,SaaS,Mid-Market,Germany,390,CTO,1,Website,CRM,23,12,3,8,2,10,1,24,Medium,6+ months,None
+L193,Prospect 193,Logistics,Enterprise,Singapore,4977,Director,1,Referral,AI Automation,23,6,3,4,3,2,2,11,Low,0-30 days,None
+L194,Prospect 194,FinTech,SME,Germany,42,CTO,1,Email Campaign,AI Automation,14,4,0,2,2,9,1,40,High,3-6 months,Competitor B
+L195,Prospect 195,Retail,SME,UAE,18,Founder,1,Email Campaign,CRM,5,13,8,8,3,1,11,14,Low,3-6 months,Competitor B
+L196,Prospect 196,SaaS,Enterprise,USA,3334,Founder,1,Referral,CRM,14,7,10,3,0,10,10,24,Low,6+ months,Competitor B
+L197,Prospect 197,Manufacturing,Enterprise,USA,2077,Founder,1,Partner,Data Platform,10,2,1,2,0,10,2,13,High,31-90 days,None
+L198,Prospect 198,Retail,Enterprise,UK,4261,CFO,1,Webinar,Data Platform,22,10,0,1,0,0,5,16,High,0-30 days,Competitor A
+L199,Prospect 199,Retail,Enterprise,Germany,3690,CTO,1,Email Campaign,Analytics,21,3,8,0,0,9,1,44,Low,3-6 months,None
+L200,Prospect 200,Healthcare,Mid-Market,India,277,VP Sales,1,LinkedIn,CRM,15,5,8,3,1,6,9,40,Low,3-6 months,None
+L201,Prospect 201,Healthcare,Enterprise,Germany,2220,Founder,0,Email Campaign,Analytics,23,11,3,6,1,2,5,14,High,3-6 months,None
+L202,Prospect 202,FinTech,Enterprise,UAE,1051,CTO,0,Webinar,Cloud,8,3,3,7,2,5,4,42,High,31-90 days,Competitor B
+L203,Prospect 203,Healthcare,Mid-Market,Germany,430,Procurement Head,1,Referral,Cloud,18,11,5,6,1,0,10,15,Low,6+ months,Competitor B
+L204,Prospect 204,SaaS,Enterprise,USA,3002,Director,0,Webinar,CRM,15,3,2,1,2,2,6,16,High,0-30 days,None
+L205,Prospect 205,SaaS,SME,Germany,43,Head of Operations,1,Email Campaign,Data Platform,15,4,5,6,1,9,9,8,Medium,0-30 days,Competitor B
+L206,Prospect 206,SaaS,SME,Germany,27,Head of Operations,1,Email Campaign,Cybersecurity,5,4,7,5,0,3,15,14,Low,3-6 months,Competitor A
+L207,Prospect 207,Retail,Enterprise,UK,826,Head of Operations,1,Email Campaign,Cloud,20,10,1,8,2,4,5,24,High,6+ months,None
+L208,Prospect 208,Healthcare,Mid-Market,UAE,480,CTO,0,Email Campaign,Data Platform,19,0,8,2,3,2,7,4,High,3-6 months,Competitor A
+L209,Prospect 209,Healthcare,Startup,USA,4,Director,0,Website,AI Automation,23,3,7,7,3,3,5,41,Medium,0-30 days,None
+L210,Prospect 210,Telecom,Startup,UAE,10,Head of Operations,1,Webinar,CRM,8,5,8,6,0,10,9,5,Low,6+ months,Competitor C
+L211,Prospect 211,SaaS,SME,UAE,33,Director,0,Email Campaign,Data Platform,8,5,10,5,3,9,2,14,Medium,6+ months,None
+L212,Prospect 212,EdTech,Enterprise,India,4398,Procurement Head,1,Email Campaign,Cloud,19,1,8,8,0,1,15,42,Low,0-30 days,Competitor C
+L213,Prospect 213,SaaS,SME,Germany,58,Procurement Head,1,LinkedIn,CRM,13,4,4,7,1,1,9,38,High,6+ months,Competitor A
+L214,Prospect 214,EdTech,Startup,USA,9,CTO,1,Partner,Cloud,22,10,6,5,0,2,13,41,High,3-6 months,Competitor C
+L215,Prospect 215,FinTech,SME,UAE,71,Director,1,Webinar,Cybersecurity,17,15,4,4,2,6,4,42,Low,31-90 days,Competitor A
+L216,Prospect 216,Logistics,Startup,UK,3,Director,0,Partner,CRM,25,2,2,7,3,1,2,16,Low,3-6 months,None
+L217,Prospect 217,SaaS,Mid-Market,Singapore,471,Head of Operations,1,Partner,Analytics,20,15,7,0,1,10,9,12,Low,31-90 days,Competitor A
+L218,Prospect 218,Manufacturing,SME,USA,45,Head of Operations,1,Webinar,Cloud,11,12,6,3,0,1,2,35,Medium,3-6 months,Competitor B
+L219,Prospect 219,Telecom,Startup,UAE,5,Founder,1,Referral,Cloud,3,2,8,4,2,1,8,34,High,3-6 months,Competitor C
+L220,Prospect 220,Retail,Enterprise,India,1452,CFO,1,Partner,Data Platform,8,2,6,3,1,5,13,22,High,0-30 days,Competitor A
+L221,Prospect 221,Retail,Mid-Market,UAE,318,Head of Operations,0,Website,AI Automation,11,6,9,4,1,10,6,31,High,31-90 days,Competitor A
+L222,Prospect 222,Telecom,Mid-Market,UAE,136,Founder,1,Email Campaign,Cybersecurity,21,15,9,0,0,7,11,39,Medium,6+ months,Competitor B
+L223,Prospect 223,Telecom,Enterprise,Singapore,4806,Procurement Head,1,LinkedIn,Analytics,25,13,7,8,0,8,11,25,High,31-90 days,None
+L224,Prospect 224,Telecom,SME,UK,22,Head of Operations,1,Webinar,Data Platform,19,8,2,8,2,3,8,30,High,3-6 months,Competitor A
+L225,Prospect 225,Healthcare,Mid-Market,UK,218,Founder,0,LinkedIn,AI Automation,5,4,9,3,0,4,7,35,Medium,6+ months,Competitor A
+L226,Prospect 226,Retail,Enterprise,UK,4735,Founder,0,Partner,Analytics,17,10,7,4,2,8,1,25,Low,31-90 days,Competitor A
+L227,Prospect 227,Retail,Enterprise,Singapore,3451,CTO,1,Partner,CRM,17,8,5,0,3,1,11,43,High,31-90 days,Competitor A
+L228,Prospect 228,EdTech,Enterprise,Singapore,2847,Procurement Head,1,Referral,Data Platform,14,4,2,5,3,10,12,4,Low,31-90 days,Competitor A
+L229,Prospect 229,FinTech,Mid-Market,UAE,213,Head of Operations,0,Webinar,Analytics,24,11,9,8,3,6,5,11,Low,31-90 days,Competitor B
+L230,Prospect 230,Manufacturing,Startup,Germany,2,CTO,1,Webinar,Data Platform,0,12,8,1,0,4,4,5,High,6+ months,Competitor A
+L231,Prospect 231,Telecom,SME,Germany,31,Procurement Head,1,Partner,CRM,21,11,5,7,3,8,8,35,Medium,31-90 days,Competitor A
+L232,Prospect 232,Healthcare,Enterprise,Singapore,4445,CTO,0,Webinar,CRM,17,7,1,7,2,5,13,16,Low,3-6 months,None
+L233,Prospect 233,Healthcare,Startup,Germany,8,Procurement Head,1,Partner,Cloud,24,13,4,3,0,8,11,12,Medium,6+ months,Competitor A
+L234,Prospect 234,Retail,Enterprise,India,3958,Procurement Head,0,Webinar,CRM,20,7,8,4,2,10,8,26,Low,0-30 days,Competitor A
+L235,Prospect 235,Manufacturing,Enterprise,India,3126,Head of Operations,1,LinkedIn,Cloud,0,4,0,8,0,2,3,18,Medium,31-90 days,None
+L236,Prospect 236,Healthcare,SME,UAE,63,Founder,1,Referral,Cloud,11,14,0,5,0,2,1,17,Medium,0-30 days,Competitor C
+L237,Prospect 237,SaaS,Startup,Germany,2,Director,1,Email Campaign,Analytics,7,1,3,7,0,8,6,30,Medium,3-6 months,Competitor A
+L238,Prospect 238,SaaS,Mid-Market,India,176,Director,1,Partner,Cloud,1,6,1,3,3,5,0,10,Medium,0-30 days,Competitor A
+L239,Prospect 239,Manufacturing,SME,Singapore,21,Director,0,Partner,Cybersecurity,15,2,10,5,0,0,11,41,Low,0-30 days,Competitor C
+L240,Prospect 240,EdTech,Enterprise,Singapore,3594,Procurement Head,0,Webinar,Cybersecurity,11,4,4,0,3,7,9,34,High,6+ months,Competitor A
+L241,Prospect 241,Logistics,SME,UAE,29,Director,1,Partner,Cloud,8,11,7,0,3,2,0,39,Medium,31-90 days,None
+L242,Prospect 242,Manufacturing,SME,India,46,VP Sales,0,Email Campaign,Data Platform,20,10,1,1,0,0,4,11,Low,31-90 days,Competitor C
+L243,Prospect 243,EdTech,Enterprise,Germany,3501,VP Sales,1,Email Campaign,Cybersecurity,7,2,0,3,3,1,14,40,Low,3-6 months,Competitor C
+L244,Prospect 244,Logistics,Startup,Germany,2,VP Sales,1,Partner,CRM,16,3,1,3,3,3,6,33,High,31-90 days,Competitor A
+L245,Prospect 245,EdTech,Mid-Market,Singapore,128,CFO,1,Partner,Cloud,25,5,8,6,2,10,5,34,High,6+ months,Competitor B
+L246,Prospect 246,Healthcare,Mid-Market,Singapore,363,VP Sales,1,Referral,AI Automation,6,12,8,4,2,7,14,25,Low,0-30 days,None
+L247,Prospect 247,Manufacturing,SME,Singapore,12,Founder,1,Referral,Analytics,17,4,1,0,3,5,4,8,Medium,3-6 months,Competitor A
+L248,Prospect 248,FinTech,Enterprise,India,1132,Founder,0,Referral,Cybersecurity,23,10,7,2,3,9,3,38,High,3-6 months,Competitor C
+L249,Prospect 249,Healthcare,Enterprise,India,2357,Procurement Head,1,Partner,Cloud,23,0,10,6,0,4,1,20,High,31-90 days,Competitor A
+L250,Prospect 250,Retail,Enterprise,India,2319,CFO,1,Email Campaign,Cloud,13,9,6,2,1,5,2,30,High,0-30 days,Competitor C

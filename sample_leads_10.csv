@@ -1,0 +1,11 @@
+Lead_ID,Company_Name,Industry,Company_Size,Country,Annual_Revenue_USD_M,Job_Title,Decision_Maker_Flag,Lead_Source,Product_Interest,Website_Visits_30D,Email_Opens_30D,Email_Clicks_30D,Content_Downloads_30D,Demo_Requests_30D,LinkedIn_Engagement_30D,Previous_Interactions,Days_Since_Last_Activity,Budget_Fit,Purchase_Timeline,Competitor_Usage
+L001,Prospect 001,SaaS,Startup,USA,1,Head of Operations,0,Partner,Data Platform,4,3,10,8,0,9,13,2,Low,0-30 days,Competitor A
+L002,Prospect 002,FinTech,Enterprise,Singapore,2778,Founder,0,Referral,CRM,25,0,2,6,2,4,4,13,Medium,0-30 days,Competitor C
+L003,Prospect 003,FinTech,Mid-Market,UAE,349,Founder,0,LinkedIn,Cloud,12,2,8,4,2,9,6,45,Low,0-30 days,Competitor B
+L004,Prospect 004,Logistics,Mid-Market,Singapore,158,Procurement Head,0,Partner,CRM,11,6,10,4,0,9,5,34,High,31-90 days,Competitor C
+L005,Prospect 005,Healthcare,SME,Singapore,17,Head of Operations,1,Website,Data Platform,25,10,6,4,0,3,10,13,High,6+ months,Competitor C
+L006,Prospect 006,Logistics,Mid-Market,UK,373,Director,1,Webinar,CRM,11,7,2,8,3,1,1,7,Low,31-90 days,None
+L007,Prospect 007,FinTech,Mid-Market,Germany,423,CTO,1,Partner,CRM,21,8,10,5,0,4,13,10,Medium,0-30 days,Competitor A
+L008,Prospect 008,FinTech,SME,India,57,Procurement Head,0,Webinar,Analytics,17,0,9,5,3,0,3,23,Medium,31-90 days,Competitor A
+L009,Prospect 009,FinTech,SME,UAE,70,Head of Operations,1,LinkedIn,Cybersecurity,8,13,3,8,1,4,12,42,High,3-6 months,Competitor C
+L010,Prospect 010,Manufacturing,Startup,USA,10,Head of Operations,1,Partner,CRM,0,2,10,0,1,1,1,21,Low,31-90 days,Competitor C
